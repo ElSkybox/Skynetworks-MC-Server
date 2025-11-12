@@ -11,15 +11,13 @@ services:
       EULA: "TRUE"
       TYPE: "MODRINTH"
       VERSION: "1.20.1"
-      MODRINTH_MODPACK: "https://drive.google.com/file/d/1owRqHRNAQlTUKBKUdI5jKSM2HXmnZT21/view\
-        ?usp=drive_link"
+      MODRINTH_MODPACK: "https://drive.google.com/uc?export=download&id=1owRqHRNAQlTUKBKUdI5jKSM2HXmnZT21"
       MODRINTH_DEFAULT_VERSION_TYPE: "release"
       MODRINTH_LOADER: "forge"
       MEMORY: "24576M"
       MOTD: "This server is brought to you by things I don't understand. \\n What
         fun!"
-      ICON: "https://drive.google.com/file/d/1yU5p7U1S5Zck1ZfjFg6d8_7tRQuSo4Sp/view\
-        ?usp=drive_link"
+      ICON: "https://drive.google.com/file/d/1yU5p7U1S5Zck1ZfjFg6d8_7tRQuSo4Sp/view?usp=drive_link"
       OVERRIDE_ICON: "true"
       USE_MEOWICE_FLAGS: "true"
       TZ: "America/Chicago"
