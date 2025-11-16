@@ -1,0 +1,13 @@
+name = "[Immersive Vehicles/IV/MTS] VEB Automobilwerke Schwikau Military/Civilian Tanks, Helicopters, Planes, and more!"
+filename = "VEB-1.1.11-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8aff624cfc720bd3b0f6487f61eeb937a330133b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7088363
+project-id = 357497

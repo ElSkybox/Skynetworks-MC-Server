@@ -1,0 +1,13 @@
+name = "NoCube's Better Grindstone"
+filename = "nocube's_better_grindstone_1.0.1_forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e7d524e1357196a2355b1effab8a8d98fa59440"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4711296
+project-id = 793082

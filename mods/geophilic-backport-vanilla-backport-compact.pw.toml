@@ -1,0 +1,16 @@
+name = "Geophilic Backport - Vanilla Backport Compact"
+filename = "GeophilicBackported-v1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9a76a50722cf4150458f986c55f1624de87a959"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6879731
+project-id = 1326075
+
+[option]
+optional = true
