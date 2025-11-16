@@ -13,10 +13,8 @@ services:
       VERSION: "1.20.1"
       FORGE_VERSION: "47.4.10"
       MEMORY: "24576M"
-      PACKWIZ_URL: "https://raw.githubusercontent.com/ElSkybox/Skynetworks-MC-Server/refs/\
-        heads/main/pack.toml"
-      MOTD: "This server is brought to you by things I don't understand. \\n What
-        fun!"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/ElSkybox/Skynetworks-MC-Server/refs/heads/main/pack.toml"
+      MOTD: "This server is brought to you by things I don't understand. What fun!"
       ICON: "https://drive.google.com/file/d/1yU5p7U1S5Zck1ZfjFg6d8_7tRQuSo4Sp/view?usp=drive_link"
       OVERRIDE_ICON: "true"
       USE_MEOWICE_FLAGS: "true"
